@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328450668487",
+    "project_id": "settyle",
+    "storage_bucket": "settyle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328450668487:android:febe82435238bdc94bcbe2",
+        "android_client_info": {
+          "package_name": "com.example.settyl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328450668487-duu9t9eca0ajt80kjh0oc5irfc5me5fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.settyl",
+            "certificate_hash": "e2a0b73d62e685acc3e06f2225556ee494ecbf74"
+          }
+        },
+        {
+          "client_id": "328450668487-e07r0phvrlcjqafg1oeiu6r79tib22r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Qp_XwGIQKP1HJfJdL3Ga8-2sEUy_Ess"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328450668487-e07r0phvrlcjqafg1oeiu6r79tib22r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
